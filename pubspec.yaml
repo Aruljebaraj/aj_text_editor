@@ -1,6 +1,6 @@
 name: aj_text_editor
 description: "aj_text_editor lets you easily customize your content with options to change text color, size, and font"
-version: 0.0.5
+version: 0.0.7
 homepage: 'https://github.com/Aruljebaraj/aj_text_editor'
 
 environment:
@@ -42,9 +42,6 @@ flutter:
   # example:
   assets:
     - screenshot/screenshot_1.png
-    - screenshot/screenshot_2.png
-    - screenshot/screenshot_3.png
-    - screenshot/screenshot_4.png
   fonts:
     - family: Billabong
       fonts:

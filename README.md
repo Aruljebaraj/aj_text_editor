@@ -7,14 +7,15 @@ Its intuitive interface allows you to easily adjust text colour, size, and font 
 
 Features:
 
-The AJ text editor empowers you to fully control your text formatting. 
+The AJ text editor empowers you to fully control your text formatting.
 easily select and change fonts,
-adjust text size, 
-change background color, 
-customize text color, and modify spacing. 
+adjust text size,
+change background color,
+customize text color, and modify spacing.
 With these features, you can tailor your content effortlessly to match your style. 😊🖋️📝
 
-# Examples
+## Screenshot
+![AjEditor](https://github.com/Aruljebaraj/aj_text_editor/blob/main/screenshot/screenshot_1.png?raw=true)
 
 ### Quick Example
 
