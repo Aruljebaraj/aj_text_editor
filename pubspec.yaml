@@ -41,7 +41,7 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   assets:
-    - screenshot/screenshot_1.png
+    - screenshot/screenshot.png
   fonts:
     - family: Billabong
       fonts:

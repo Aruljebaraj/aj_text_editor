@@ -15,7 +15,7 @@ customize text color, and modify spacing.
 With these features, you can tailor your content effortlessly to match your style. 😊🖋️📝
 
 ## Screenshot
-![AjEditor](https://github.com/Aruljebaraj/aj_text_editor/blob/main/screenshot/screenshot_1.png?raw=true)
+![AjEditor](https://github.com/Aruljebaraj/aj_text_editor/blob/main/screenshot/screenshot.png?raw=true)
 
 ### Quick Example
 
