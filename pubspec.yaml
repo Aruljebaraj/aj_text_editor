@@ -1,7 +1,7 @@
-name: aj_text_editor
-description: "Aj_text_editor lets you easily customize your content with options to change text color, size, and font"
-version: 0.0.3
-homepage: 'https://github.com/Aruljebaraj/aj_text_editor'
+name: aj_text_formatter
+description: "aj_text_formatter lets you easily customize your content with options to change text color, size, and font"
+version: 0.0.1
+homepage: 'https://github.com/Aruljebaraj/aj_text_formatter'
 
 environment:
   sdk: '>=3.4.4 <4.0.0'

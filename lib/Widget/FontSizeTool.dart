@@ -1,9 +1,11 @@
+// ignore_for_file: must_be_immutable
+
 import 'package:flutter/material.dart';
 
 class FontSizeTool extends StatelessWidget {
-   double fontSize;
-   double letterSpacing;
-   double letterHeight;
+  double fontSize;
+  double letterSpacing;
+  double letterHeight;
   final Function(
     double fontSize,
     double letterSpacing,
@@ -27,9 +29,9 @@ class FontSizeTool extends StatelessWidget {
           _ResizeSlider(
             value: fontSize,
             icon: Icons.format_size,
-            min:0,
+            min: 0,
             onChange: (value) {
-               fontSize = value;
+              fontSize = value;
               onFontSizeEdited(fontSize, letterSpacing, letterHeight);
             },
           ),
@@ -49,7 +51,7 @@ class FontSizeTool extends StatelessWidget {
             max: 10,
             min: 1,
             onChange: (value) {
-               letterSpacing = value;
+              letterSpacing = value;
               onFontSizeEdited(fontSize, letterSpacing, letterHeight);
             },
           ),

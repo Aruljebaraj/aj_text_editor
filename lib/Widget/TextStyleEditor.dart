@@ -2,10 +2,10 @@
 
 library text_style_editor;
 
-import 'package:aj_text_editor/Bloc/TextEditorBloc.dart';
-import 'package:aj_text_editor/Bloc/TextEditorEvent.dart';
-import 'package:aj_text_editor/Bloc/TextEditorState.dart';
-import 'package:aj_text_editor/Enum/EditorToolbarAction.dart';
+import 'package:aj_text_formatter/Bloc/TextEditorBloc.dart';
+import 'package:aj_text_formatter/Bloc/TextEditorEvent.dart';
+import 'package:aj_text_formatter/Bloc/TextEditorState.dart';
+import 'package:aj_text_formatter/Enum/EditorToolbarAction.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

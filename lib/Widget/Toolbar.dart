@@ -1,4 +1,4 @@
-import 'package:aj_text_editor/Enum/EditorToolbarAction.dart';
+import 'package:aj_text_formatter/Enum/EditorToolbarAction.dart';
 import 'package:flutter/material.dart';
 
 import 'OptionButton.dart';

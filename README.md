@@ -1,6 +1,6 @@
 Text Editor
 
-Welcome to the The AJ text editor provides you with complete control over your text formatting.
+Welcome to the The AJ text formatter provides you with complete control over your text formatting.
 
 Its intuitive interface allows you to easily adjust text colour, size, and font to match your style
 😊🖋️📝
